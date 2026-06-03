@@ -93,16 +93,9 @@ This \(a\) is for **950nm wavelength**.
 ---
 
 ## TABULATION
+<img width="733" height="870" alt="image" src="https://github.com/user-attachments/assets/3cf9aff7-c35e-4521-a5d0-84c6469f4c9c" />
 
-### Propagation Loss
-| Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
-|--------------|----------------------|-----------------------|
-|              |                      |                       |
 
-### Bending Loss
-| Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
-|------------------|----------------------|-----------------------|
-|                  |                      |                       |
 
 ---
 
