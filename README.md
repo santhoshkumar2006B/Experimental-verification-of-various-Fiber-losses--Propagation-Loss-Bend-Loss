@@ -78,7 +78,7 @@ This \(a\) is for **660nm wavelength**.
 
 
 This \(a\) is for **950nm wavelength**.  
-8. Compare attenuation values for 660nm and 950nm.  
+8. Compare attenuation values for 660nm and 950nm.   
 
 ---
 
